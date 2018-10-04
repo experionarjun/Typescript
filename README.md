@@ -1,0 +1,3 @@
+# Typescript
+
+Implemented Typescript.
